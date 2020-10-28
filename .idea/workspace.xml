@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b139f019-095c-4d68-a3db-e5b6a74a4a54" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../hw2/hw2/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/hw2/Percolation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab8/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8/MyHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library-sp19" beforeDir="false" afterPath="$PROJECT_DIR$/../library-sp19" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj2ab/bearmaps/KDTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2c/AugmentedStreetMapGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/bearmaps/proj2c/AugmentedStreetMapGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj3/byow/Core/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/MapGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj3/byow/Core/MapGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/filename.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/load.txt" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/proj2c$TestRasterAPIHandler_testProcessRequests.ic" NAME="TestRasterAPIHandler.testProcessRequests Coverage Results" MODIFIED="1555495450542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bearmaps.test.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bearmaps/proj2c/AugmentedStreetMapGraph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1080">
+              <caret line="30" column="10" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Node</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/bearmaps/proj2ab/WeirdPointSet.java" />
+        <option value="$PROJECT_DIR$/bearmaps/proj2c/Router.java" />
+        <option value="$PROJECT_DIR$/bearmaps/test/TestRasterAPIHandler.java" />
+        <option value="$PROJECT_DIR$/bearmaps/proj2c/server/handler/impl/RasterAPIHandler.java" />
+        <option value="$PROJECT_DIR$/bearmaps/proj2ab/KDTree.java" />
+        <option value="$PROJECT_DIR$/bearmaps/proj2c/KDTree.java" />
+        <option value="$PROJECT_DIR$/bearmaps/hw4/streetmap/Node.java" />
+        <option value="$PROJECT_DIR$/bearmaps/proj2c/MyTrieSet.java" />
+        <option value="$PROJECT_DIR$/bearmaps/proj2c/TrieSet61B.java" />
+        <option value="$PROJECT_DIR$/bearmaps/proj2c/AugmentedStreetMapGraph.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="proj2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proj2c" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proj2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proj2c" type="462c0819:PsiDirectoryNode" />
+              <item name="bearmaps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proj2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proj2c" type="462c0819:PsiDirectoryNode" />
+              <item name="bearmaps" type="462c0819:PsiDirectoryNode" />
+              <item name="hw4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proj2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proj2c" type="462c0819:PsiDirectoryNode" />
+              <item name="bearmaps" type="462c0819:PsiDirectoryNode" />
+              <item name="hw4" type="462c0819:PsiDirectoryNode" />
+              <item name="streetmap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proj2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proj2c" type="462c0819:PsiDirectoryNode" />
+              <item name="bearmaps" type="462c0819:PsiDirectoryNode" />
+              <item name="proj2ab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proj2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proj2c" type="462c0819:PsiDirectoryNode" />
+              <item name="bearmaps" type="462c0819:PsiDirectoryNode" />
+              <item name="proj2c" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proj2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proj2c" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proj2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proj2c" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proj2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proj2c" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proj2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proj2c" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proj2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proj2c" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="simple" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555646379769" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AugmentedStreetMapGraph">
+    <configuration name="AugmentedStreetMapGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bearmaps.proj2c.AugmentedStreetMapGraph" />
+      <module name="proj2c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.proj2c.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bearmaps.proj2c.MapServer" />
+      <module name="proj2c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.proj2c.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRasterAPIHandler" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj2c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps.test" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.test.TestRasterAPIHandler" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRasterAPIHandler.testGradeScope" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj2c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps.test" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.test.TestRasterAPIHandler" />
+      <option name="METHOD_NAME" value="testGradeScope" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRasterAPIHandler.testProcessRequests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj2c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps.test" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.test.TestRasterAPIHandler" />
+      <option name="METHOD_NAME" value="testProcessRequests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AugmentedStreetMapGraph" />
+        <item itemvalue="JUnit.TestRasterAPIHandler.testGradeScope" />
+        <item itemvalue="JUnit.TestRasterAPIHandler" />
+        <item itemvalue="Application.MapServer" />
+        <item itemvalue="JUnit.TestRasterAPIHandler.testProcessRequests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b139f019-095c-4d68-a3db-e5b6a74a4a54" name="Default Changelist" comment="" />
+      <created>1555360910931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555360910931</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestRasterAPIHandler_testGradeScope - 2019.04.18 at 12h 24m 47s.xml">
+      <configuration name="TestRasterAPIHandler.testGradeScope" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRasterAPIHandler_testGradeScope - 2019.04.18 at 12h 25m 46s.xml">
+      <configuration name="TestRasterAPIHandler.testGradeScope" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRasterAPIHandler_testGradeScope - 2019.04.18 at 12h 25m 50s.xml">
+      <configuration name="TestRasterAPIHandler.testGradeScope" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRasterAPIHandler_testGradeScope - 2019.04.18 at 12h 25m 51s.xml">
+      <configuration name="TestRasterAPIHandler.testGradeScope" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRasterAPIHandler_testGradeScope - 2019.04.18 at 12h 26m 05s.xml">
+      <configuration name="TestRasterAPIHandler.testGradeScope" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRasterAPIHandler_testGradeScope - 2019.04.18 at 12h 26m 08s.xml">
+      <configuration name="TestRasterAPIHandler.testGradeScope" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRasterAPIHandler_testGradeScope - 2019.04.18 at 12h 28m 46s.xml">
+      <configuration name="TestRasterAPIHandler.testGradeScope" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRasterAPIHandler_testGradeScope - 2019.04.18 at 12h 34m 08s.xml">
+      <configuration name="TestRasterAPIHandler.testGradeScope" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRasterAPIHandler_testGradeScope - 2019.04.18 at 12h 36m 06s.xml">
+      <configuration name="TestRasterAPIHandler.testGradeScope" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRasterAPIHandler_testGradeScope - 2019.04.18 at 12h 36m 10s.xml">
+      <configuration name="TestRasterAPIHandler.testGradeScope" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28016195" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" weight="0.38010657" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28419182" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Style Checker" order="7" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50040483" side_tool="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/bearmaps/test/TestRasterAPIHandler.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/bearmaps/proj2c/server/handler/impl/RasterAPIHandler.java</url>
+          <line>113</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>actual</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>expected</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/bearmaps/proj2c/server/handler/impl/ClearRouteAPIHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/page/map.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/simple/test.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bearmaps/proj2c/utils/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-235">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../library-sp19/javalib/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../library-sp19/javalib/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="240" selection-start-line="240" selection-end-line="240" />
+          <folding>
+            <element signature="e#2111#2112#0" expanded="true" />
+            <element signature="e#2155#2156#0" expanded="true" />
+            <element signature="e#5951#6086#0" expanded="true" />
+            <element signature="e#6085#6086#0" expanded="true" />
+            <element signature="e#6484#6648#0" expanded="true" />
+            <element signature="e#6647#6648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../library-sp19/javalib/junit-4.12.jar!/org/junit/runner/JUnitCore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../library-sp19/javalib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bearmaps/proj2c/server/handler/APIRouteHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bearmaps/proj2c/server/handler/impl/RoutingAPIHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bearmaps/proj2ab/WeirdPointSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="158" column="23" lean-forward="true" selection-start-line="158" selection-start-column="23" selection-end-line="158" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bearmaps/hw4/AStarGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bearmaps/hw4/ShortestPathsSolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bearmaps/test/TestRasterAPIHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bearmaps/test/TestRouter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bearmaps/proj2ab/KDTree.java" />
+    <entry file="file://$PROJECT_DIR$/bearmaps/proj2c/server/handler/impl/RasterAPIHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="205" column="43" selection-start-line="205" selection-start-column="43" selection-end-line="205" selection-end-column="43" />
+          <folding>
+            <element signature="e#9713#9714#0" expanded="true" />
+            <element signature="e#9747#9748#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bearmaps/proj2c/KDTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2460">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bearmaps/proj2c/TrieSet61B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bearmaps/proj2c/MapServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bearmaps/proj2c/MyTrieSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bearmaps/hw4/streetmap/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bearmaps/proj2c/Router.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bearmaps/proj2c/AugmentedStreetMapGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1080">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>proj2c</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>proj2c</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
