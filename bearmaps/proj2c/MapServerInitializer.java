@@ -9,9 +9,6 @@ import java.util.Set;
 
 import static spark.Spark.*;
 
-/**
- * Created by rahul
- */
 public class MapServerInitializer {
 
 

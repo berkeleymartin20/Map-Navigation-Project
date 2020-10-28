@@ -5,7 +5,6 @@ import bearmaps.proj2c.server.handler.APIRouteHandlerFactory;
 
 /**
  * This code is using BearMaps skeleton code version 4.0.
- * @author Alan Yao, Josh Hug
  */
 public class MapServer {
 

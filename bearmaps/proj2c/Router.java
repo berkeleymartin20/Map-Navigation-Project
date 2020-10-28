@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 
 /**
  * This class acts as a helper for the RoutingAPIHandler.
- * @author Josh Hug, ______
+ * @author Josh Hug, Martin Lee
  */
 public class Router {
 
